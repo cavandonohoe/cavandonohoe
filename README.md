@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @cavandonohoe
-- 👀 I’m interested in helping people's lives easier.
-- 🌱 I’m currently learning more R tools in order to do that.
-- 📫 Email me at cavandonohoe@gmail.com
 
-<!---
-cavandonohoe/cavandonohoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# 👋 Hi, I’m Cavan Donohoe
+
+I am a data scientist for GRAIL working exclusively in R.
+
+👀 I’m interested in helping people’s lives easier.  
+🌱 I’m currently learning more R tools in order to do that.  
+📫 Email me at <cavandonohoe@gmail.com>
+
+Check out my repositories!
+
+And my website hosted on GitHub Pages:
+[cavandonohoe.github.io](cavandonohoe.github.io)
