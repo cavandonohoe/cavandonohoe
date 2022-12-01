@@ -12,4 +12,4 @@ I am a data scientist for GRAIL working exclusively in R.
 Check out my repositories!
 
 And my website hosted on GitHub Pages:
-[cavandonohoe.github.io](cavandonohoe.github.io)
+[cavandonohoe.github.io](https://cavandonohoe.github.io/)
