@@ -3,10 +3,22 @@
 
 # 👋 Hi, I’m Cavan Donohoe
 
-I am a data scientist for GRAIL working exclusively in R.
+I am a data scientist working for GRAIL who specializes in R
+programming. I discovered R programming in 2019 (can you believe that
+was 4 years ago??) and have loved it since then. I have a whole project
+list on my website listed below and a little bit more about me if you’d
+like to read on.
+
+I’m currently in a phase of my life where I would love to help with some
+small projects that might need some reproducibility. In this crazy world
+of high tech AI and incredibly fast computers, why are some people still
+relying on entire workflows in Excel? It boggles my mind 🤯
+
+R has become a passion of mine and I would love to share that passion
+with you.
 
 👀 I’m interested in helping people’s lives easier.  
-🌱 I’m currently learning more R tools in order to do that.  
+🌱 I’m always learning new ways in R to make that achievable.  
 📫 Email me at <cavandonohoe@gmail.com>
 
 Check out my repositories!
