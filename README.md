@@ -1,27 +1,35 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# 👋 Hi, I’m Cavan Donohoe
+# Hi, I’m Cavan Donohoe
 
-I am a data scientist who specializes in R
-programming. I discovered R programming in 2019 (can you believe that
-was 6 years ago??) and have loved it since then. I have a whole project
-list on my website listed below and a little bit more about me if you’d
-like to read on.
+<!-- badges -->
 
-I’m currently in a phase of my life where I would love to help with some
-small projects that might need some reproducibility. In this crazy world
-of high tech AI and incredibly fast computers, why are some people still
-relying on entire workflows in Excel? It boggles my mind 🤯
+[![GitHub
+followers](https://img.shields.io/github/followers/cavandonohoe?style=flat&logo=github&label=Followers)](https://github.com/cavandonohoe)
+[![GitHub
+Stars](https://img.shields.io/github/stars/cavandonohoe?affiliations=OWNER&style=flat&logo=github&label=Stars)](https://github.com/cavandonohoe?tab=repositories)
 
-R has become a passion of mine and I would love to share that passion
-with you.
+I’m a statistical programmer and R package developer. I picked up R in
+2019 — 7 years and counting — and it’s been my primary tool ever since.
+I build R packages for clinical data pipelines, validated reporting, and
+reproducible analysis.
 
-👀 I’m interested in helping people’s lives easier.  
-🌱 I’m always learning new ways in R to make that achievable.  
-📫 Email me at <cavandonohoe@gmail.com>
+### What I work on
 
-Check out my repositories!
+- 📦 R package development (roxygen2, testthat, pkgdown)
+- 📊 Automated tables, figures, and listings with gt and ggplot2
+- 🔁 Reproducible workflows and data pipelines
+- 🧪 Statistical computing for clinical research
 
-And my website hosted on GitHub Pages:
+### Tech & tools
+
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![tidyverse](https://img.shields.io/badge/-tidyverse-1A162D?style=flat)
+![gt](https://img.shields.io/badge/-gt-blueviolet?style=flat)
+
+📫 <cavandonohoe@gmail.com> 🌐
 [cavandonohoe.github.io](https://cavandonohoe.github.io/)
