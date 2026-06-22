@@ -5,12 +5,9 @@ on:
     branches: [main]
     paths:
       - README.Rmd
-      - .github/workflows/render-readme.yml
-  pull_request:
-    paths:
-      - README.Rmd
       - README.md
       - .github/workflows/render-readme.yml
+  workflow_dispatch:
 
 jobs:
   render:
@@ -36,16 +33,7 @@ jobs:
       - name: Render README.Rmd
         run: Rscript -e 'rmarkdown::render("README.Rmd", quiet = TRUE)'
 
-      - name: Check README.md is up to date (pull_request)
-        if: github.event_name == 'pull_request'
-        run: |
-          if ! git diff --exit-code -- README.md; then
-            echo "::error::README.md is out of sync with README.Rmd. Re-render locally with rmarkdown::render('README.Rmd') and commit the result."
-            exit 1
-          fi
-
-      - name: Commit rendered README.md (push to main)
-        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+      - name: Commit rendered README.md if changed
         run: |
           if git diff --quiet -- README.md; then
             echo "README.md already up to date."
