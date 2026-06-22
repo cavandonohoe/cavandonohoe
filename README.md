@@ -10,34 +10,34 @@
 ## About me
 
 I’m a data scientist and statistical programmer. I’ve been writing R
-day-to-day since 2019 — 7+ years and counting — mostly building R
-packages, data pipelines, and validated reporting for clinical research.
+day-to-day since 2019 (7+ years), mostly building R packages, data
+pipelines, and validated reporting for clinical research.
 Reproducibility, code review, and audit-readiness are the baseline for
 everything I ship.
 
 Alongside the data-science work, I’ve leaned hard into the software
-engineering side of the craft — package design, testing, CI/CD,
+engineering side of the craft: package design, testing, CI/CD,
 deployment, and the tooling that keeps an analytics codebase honest as
 it grows. I’m now actively looking for roles where both halves matter.
 
 ## What I work on
 
-- 📦 **R package development** — `roxygen2`, `testthat`, `pkgdown`,
-  `renv`
+- 📦 **R package development** with `roxygen2`, `testthat`, `pkgdown`,
+  and `renv`
 - 📊 **Automated tables, figures, and listings** with `gt` and `ggplot2`
-- 🧪 **Statistical computing for clinical research** — independently
-  coded analyses, validated against production outputs
-- 🔁 **Reproducible pipelines** — pinned dependencies, deterministic
-  builds, scheduled data refreshes
-- 🌐 **Web and dashboard work** — Shiny, R Markdown / Quarto, and
-  Next.js side projects
+- 🧪 **Statistical computing for clinical research**, including
+  independently coded analyses validated against production outputs
+- 🔁 **Reproducible pipelines** with pinned dependencies, deterministic
+  builds, and scheduled data refreshes
+- 🌐 **Web and dashboard work** in Shiny, R Markdown / Quarto, and
+  Next.js
 
 ## Featured projects
 
 | Project | What it is | Stack |
 |----|----|----|
 | [**cavandonohoe.github.io**](https://github.com/cavandonohoe/cavandonohoe.github.io) | Personal site built from R Markdown, rebuilt by GitHub Actions on every push. Scheduled workflows refresh datasets from public sources (Zillow, IMDb, S&P 500, box-office); lint, typo, link, accessibility, and Lighthouse checks run on every PR. | R Markdown · GitHub Pages · GitHub Actions |
-| [**rent-vs-buy**](https://github.com/cavandonohoe/rent-vs-buy) | Interactive Shiny app comparing buying vs. renting + investing — amortization, breakeven sweeps, equity over time. Deployed to shinyapps.io. | R · Shiny · plotly |
+| [**rent-vs-buy**](https://github.com/cavandonohoe/rent-vs-buy) | Interactive Shiny app comparing buying vs. renting + investing, with amortization, breakeven sweeps, and equity over time. Deployed to shinyapps.io. | R · Shiny · plotly |
 | [**confederate_statues**](https://github.com/cavandonohoe/confederate_statues) | Web-scraping pipeline that builds a dated timeline of Confederate-monument installations from Wikipedia. | R · `rvest` · `ggplot2` |
 
 ## Data science
@@ -46,14 +46,14 @@ What I do most of the time. The clinical reporting work itself is
 private (regulated data), but the patterns transfer:
 
 - **Validated, audit-ready analyses.** Independent coding against
-  production outputs is a normal part of my workflow — I’m used to
+  production outputs is a normal part of my workflow. I’m used to
   writing code that someone else verifies line-by-line.
 - **Tables, figures, and listings at scale.** Automated TFL pipelines
   using `gt` and `ggplot2`, parameterized so the same code produces
   outputs for different analysis sets, populations, and timepoints.
 - **Statistical methods.** Survival, weighted analyses, proportions with
-  Wilson / modified Wilson / Clopper–Pearson / Simel CIs, sensitivity
-  and specificity for diagnostic tests.
+  Wilson, modified Wilson, Clopper-Pearson, and Simel CIs, plus
+  sensitivity and specificity for diagnostic tests.
 - **Data wrangling.** `tidyverse` end-to-end; SQL for upstream pulls;
   AWS S3 for tidy datasets.
 
