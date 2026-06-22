@@ -34,11 +34,11 @@ it grows. I’m now actively looking for roles where both halves matter.
 
 ## Featured projects
 
-| Project | What it is | Stack |
-|----|----|----|
+| Project                                                                              | What it is                                                                                                                                                                                                                                          | Stack                                      |
+|--------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
 | [**cavandonohoe.github.io**](https://github.com/cavandonohoe/cavandonohoe.github.io) | Personal site built from R Markdown, rebuilt by GitHub Actions on every push. Scheduled workflows refresh datasets from public sources (Zillow, IMDb, S&P 500, box-office); lint, typo, link, accessibility, and Lighthouse checks run on every PR. | R Markdown · GitHub Pages · GitHub Actions |
-| [**rent-vs-buy**](https://github.com/cavandonohoe/rent-vs-buy) | Interactive Shiny app comparing buying vs. renting + investing, with amortization, breakeven sweeps, and equity over time. Deployed to shinyapps.io. | R · Shiny · plotly |
-| [**confederate_statues**](https://github.com/cavandonohoe/confederate_statues) | Web-scraping pipeline that builds a dated timeline of Confederate-monument installations from Wikipedia. | R · `rvest` · `ggplot2` |
+| [**rent-vs-buy**](https://github.com/cavandonohoe/rent-vs-buy)                       | Interactive Shiny app comparing buying vs. renting + investing, with amortization, breakeven sweeps, and equity over time. Deployed to shinyapps.io.                                                                                                | R · Shiny · plotly                         |
+| [**confederate_statues**](https://github.com/cavandonohoe/confederate_statues)       | Web-scraping pipeline that builds a dated timeline of Confederate-monument installations from Wikipedia.                                                                                                                                            | R · `rvest` · `ggplot2`                    |
 
 ## Data science
 
