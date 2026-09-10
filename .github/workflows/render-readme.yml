@@ -7,6 +7,10 @@ on:
       - README.Rmd
       - README.md
       - .github/workflows/render-readme.yml
+  schedule:
+    # Re-render monthly so the auto-computed "years of experience" in the
+    # README stays current after the year rolls over (nothing pushes on Jan 1).
+    - cron: "0 6 1 * *"
   workflow_dispatch:
 
 jobs:
